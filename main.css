@@ -8,13 +8,13 @@ body{
 }
 
 .section-1{
-	height: 300px;
+	height: 100%;
 }
 
 .pattern-1{
 	float: left;
 	width: 300px;
-	height: 300px;
+	height: 700px;
 	margin: 25px;
 	background-color: #dadada;
 }
