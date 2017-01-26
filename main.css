@@ -4,20 +4,20 @@
 
 body{
 
-	background:gray;
+	background:white;
 }
 
 .pattern-1{
 	float: left;
 	width: 200px;
 	height: 200px;
-	margin: 25px;
+	margin: 20px;
 	background-color: #dadada;
 }
 
 p{
 	width: 100%;
-	margin: 5px;
+	margin: 10px;
 }
 
 img{
